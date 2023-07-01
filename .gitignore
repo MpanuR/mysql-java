@@ -1,2 +1,4 @@
 .settings/
 target/
+.vscode/settings.json
+projects-schema.session.sql
